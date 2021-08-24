@@ -1,0 +1,12 @@
+{
+  "name": "E-Commerece",
+  "displayName": "E-Commerece",
+  "expo": {
+    "name": "E-Commerece",
+    "slug": "E-Commerece",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
